@@ -30,11 +30,9 @@ Database:	PostgreSQL / SQLite (Dev)
 Auth:	JWT (access + refresh)
 Styling:	Inline CSS / React styling
 
-📦 Setup Instructions
-🐍 Backend (Django)
-bash
-Copy
-Edit
+# 📦 Setup Instructions
+# 🐍 Backend (Django)
+
 # Clone the repo
 git clone https://github.com/yourusername/quiz-app.git
 cd quiz-app
@@ -57,10 +55,8 @@ python manage.py createsuperuser
 python manage.py runserver
 📌 Visit http://127.0.0.1:8000/admin/ to access Django Admin.
 
-⚛️ Frontend (React)
-bash
-Copy
-Edit
+# ⚛️ Frontend (React)
+
 # Navigate to frontend folder
 cd quiz-frontend
 
