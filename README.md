@@ -24,10 +24,15 @@ View past quiz attempts and correct answers
 
 # 🛠️ Tech Stack
 Layer	Tech Used
+
 Frontend:React, Axios, React Router
+
 Backend:	Django, Django REST Framework, Simple JWT
+
 Database:	PostgreSQL / SQLite (Dev)
+
 Auth:	JWT (access + refresh)
+
 Styling:	Inline CSS / React styling
 
 # 📦 Setup Instructions
