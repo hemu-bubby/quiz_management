@@ -1,7 +1,7 @@
-🎓 Quiz Management System
+# 🎓 Quiz Management System
 A full-stack web application built with Django (backend) and React (frontend) where faculty can create and manage quizzes and students can attempt them, with support for automatic grading, manual evaluation, and CSV export of results.
 
-🚀 Features
+# 🚀 Features
 👨‍🏫 Faculty
 Create, edit, delete quizzes
 
@@ -13,7 +13,7 @@ View submissions for each quiz
 
 Download results as CSV
 
-🎓 Students
+# 🎓 Students
 Login and view available quizzes
 
 Attempt quizzes (with timer support)
@@ -22,13 +22,13 @@ Auto-evaluated objective questions
 
 View past quiz attempts and correct answers
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Layer	Tech Used
-Frontend	React, Axios, React Router
-Backend	Django, Django REST Framework, Simple JWT
-Database	PostgreSQL / SQLite (Dev)
-Auth	JWT (access + refresh)
-Styling	Inline CSS / React styling
+Frontend:React, Axios, React Router
+Backend:	Django, Django REST Framework, Simple JWT
+Database:	PostgreSQL / SQLite (Dev)
+Auth:	JWT (access + refresh)
+Styling:	Inline CSS / React styling
 
 📦 Setup Instructions
 🐍 Backend (Django)
